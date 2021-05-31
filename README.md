@@ -1,3 +1,5 @@
+Debug Log
+
 RimWorld 1.2.3005 rev1190
 Verse.Log:Message(String, Boolean)
 RimWorld.VersionControl:LogVersionNumber()
